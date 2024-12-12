@@ -1,0 +1,1 @@
+This notebook will have the analysis for looking at vegetation changes overtime, and it will include GIS maps looking at landchange, python codes with visuals of the calculated NDVI and a report to speak on the information found. 
